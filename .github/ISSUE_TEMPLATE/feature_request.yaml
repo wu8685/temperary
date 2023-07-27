@@ -1,4 +1,4 @@
-name: Feature request
+name: Feature Request
 description: As a user, I want to request a New Feature on the product.
 title: "FeatureRequest: <title>"
 body:
