@@ -31,6 +31,6 @@ body:
   - type: textarea
     id: version
     attributes:
-      label: What is your KusionStack components version?
+      label: What is your KusionStack components and its version?
     validations:
       required: true
