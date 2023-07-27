@@ -1,4 +1,3 @@
-name: Bug Report
 description: As a User, I want to report a Bug.
 title: "Bug: "
 labels: ["kind/bug"]
