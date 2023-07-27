@@ -28,7 +28,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: alternatives
+    id: alternative
     attributes:
       label: Describe alternatives you've considered
       placeholder: A clear and concise description of any alternative solutions or features you've considered.
