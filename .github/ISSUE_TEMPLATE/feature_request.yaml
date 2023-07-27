@@ -27,3 +27,10 @@ body:
       placeholder: A clear and concise description of any alternative solutions or features you've considered.
     validations:
       required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Teachability, Documentation, Adoption, Migration Strategy
+      placeholder: If you can, explain some scenarios how users might use this, situations it would be helpful in. Any API designs, mockups, or diagrams are also helpful.
+    validations:
+      required: false
